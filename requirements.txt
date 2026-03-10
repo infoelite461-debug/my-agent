@@ -1,0 +1,5 @@
+yt-dlp
+openai
+python-dotenv
+requests
+# Additional libraries for other media/social platforms can be added here
